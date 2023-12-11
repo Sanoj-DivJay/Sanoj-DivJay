@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=F7F7F7&center=true&vCenter=true&width=780&lines=Heyyy+I+am+Sanoj+Divakara+👨🏻‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=F7F7F7&center=true&vCenter=true&width=780&lines=Heyyy+I+am+Sanoj+Divakara+<3)](https://git.io/typing-svg)
 
-# Heyy I am Sanoj Divakara! 👨🏻‍💻
+# 👨🏻‍💻
 
 ---
 
