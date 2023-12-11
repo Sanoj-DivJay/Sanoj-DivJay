@@ -3,6 +3,13 @@
 
 # Heyy I am Sanoj Divakara! 👨🏻‍💻
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=IS+Undergraduate;Full+Stack+Developer;UI%2FUX+Enthusiast)](https://git.io/typing-svg)
+</div>
+  
+<p align="center">
+
 ---
 
 # CONNECT WITH ME :
