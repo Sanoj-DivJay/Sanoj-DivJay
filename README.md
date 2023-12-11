@@ -16,10 +16,14 @@ Heyyy!!!
 
 ---
 
+<div align="center">
+
 # GitHub Stats:
-<center> ![](https://github-readme-stats.vercel.app/api?username=Sanoj-DivJay&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/> </center>
-<center> ![](https://github-readme-streak-stats.herokuapp.com/?user=Sanoj-DivJay&theme=react&hide_border=true)<br/> </center>
-<center> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanoj-DivJay&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact) </center>
+![](https://github-readme-stats.vercel.app/api?username=Sanoj-DivJay&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sanoj-DivJay&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanoj-DivJay&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
+
+</div>
 
 ---
 
