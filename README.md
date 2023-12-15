@@ -1,7 +1,6 @@
 <div align="center">
 
-# <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="70"> &nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=F7F7F7&center=true&vCenter=true&width=500&lines=Heyyy+I+am+Sanoj+Divakara+<3)](https://git.io/typing-svg) &nbsp;
-<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="70"> &nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=F7F7F7&center=true&vCenter=true&width=500&lines=Heyyy+I+am+Sanoj+Divakara+<3)](https://git.io/typing-svg)
 
 ---
 
