@@ -95,7 +95,6 @@
 <!-- ![CONNECT BANNER](https://github.com/Sanoj-DivJay/Sanoj-DivJay/assets/88242331/fa5ebb90-867d-420a-aa4e-c0461f630fcd) -->
 
 <br>
-<br>
 
 <a href="https://twitter.com/@Sanoj_DivJay"><img align="right" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="64"><a href="https://facebook.com/@sanojdj?mibextid=LQQJ4d"><img align="right" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="64"><a href="https://instagram.com/@sanoj_div.jay](https://www.instagram.com/sanoj_div.jay/"><img align="right" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="64"><a href="www.linkedin.com/in/sanoj-divjay"><img align="right" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="64">
 
