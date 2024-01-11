@@ -90,7 +90,7 @@
 
 ---
 
-<img align = "left" alt = "connect" width = "62%" src = "https://github.com/Sanoj-DivJay/Sanoj-DivJay/assets/88242331/8872da91-2bec-4a00-bb99-28d8b7d79b32">
+<img align = "left" alt = "connect" width = "68%" src = "https://github.com/Sanoj-DivJay/Sanoj-DivJay/assets/88242331/8872da91-2bec-4a00-bb99-28d8b7d79b32">
 
 <!-- ![CONNECT BANNER](https://github.com/Sanoj-DivJay/Sanoj-DivJay/assets/88242331/fa5ebb90-867d-420a-aa4e-c0461f630fcd) -->
 
